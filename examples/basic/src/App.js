@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-import LazyLoad from 'react-lazy-load';
+// import LazyLoad from 'react-lazy-load';
+import LazyLoad from './react-lazy-load/LazyLoad.jsx';
 
 import './App.css';
 

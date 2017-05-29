@@ -185,6 +185,6 @@ LazyLoad.defaultProps = {
   offsetTop: 0,
   offsetVertical: 0,
   throttle: 250,
-  spinner: <div className="spinner" key="spinner"></div>,
-  offline: <div className="offline" key="offline"></div>,
+  spinner: React.createElement('div', { className: "spinner", key: "spinner" }),
+  offline: React.createElement('div', { className: "offline", key: "offline" }),
 };
