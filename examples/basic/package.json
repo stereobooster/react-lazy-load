@@ -6,8 +6,7 @@
   "bugs": "https://github.com/loktar00/react-lazy-load/issues",
   "dependencies": {
     "react": "^15.5.4",
-    "react-dom": "^15.5.4",
-    "react-lazy-load": "^3.0.12"
+    "react-dom": "^15.5.4"
   },
   "devDependencies": {
     "react-scripts": "1.0.7"
